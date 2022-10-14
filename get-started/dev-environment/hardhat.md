@@ -32,7 +32,7 @@ keywords:
   <img width=10% src="https://raw.githubusercontent.com/menezesphill/application_utils/main/hardhaticon.png" alt="hardhat"/>
 </p>
 
-[Hardhat](https://hardhat.org/) is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+[Hardhat](https://hardhat.org/) is a development environment to compile, deploy, test, and debug your Ethereum software. 
 
 ### What you will learn
 This article will teach you what Hardhat is, what Hardhat is used for, and how to use the features of Hardhat for development on the XDC Network.
